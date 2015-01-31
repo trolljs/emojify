@@ -1,8 +1,6 @@
 [![Build Status][travis-image]][travis-url]
 
-> Alerts for always.
-
-![wuuuuut](https://raw.github.com/trolljs/emojify/master/emojify.png)
+> Insert random emojis all over the page.
 
 ## Install
 
