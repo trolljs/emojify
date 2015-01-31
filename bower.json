@@ -1,0 +1,26 @@
+{
+  "name": "emojify",
+  "main": "dist/emojify.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/trolljs/emojify",
+  "authors": [
+    "trolljs"
+  ],
+  "description": "Turn words on webpages into emojis.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "alert",
+    "console",
+    "troll"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
