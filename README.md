@@ -14,12 +14,6 @@ or via browserify:
 $ npm install --save emojify
 ```
 
-## Usage
-
-```js
-console.log('sup');
-```
-
 ## License
 
 MIT © [trolljs](https://github.com/trolljs/emojify)
