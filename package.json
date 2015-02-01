@@ -1,6 +1,6 @@
 {
   "name": "emojify-js",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Turn words on webpages into emojis.",
   "homepage": "https://github.com/trolljs/emojify",
   "author": {
